@@ -16,7 +16,7 @@ html {
 body {
 	width:100%;
 	height:100%;
-	font-family:'Noto Sans KR', sans-serif;
+	font-family: "Poppins", sans-serif;
 	font-size: 16px;
 	font-weight:400;
 	line-height: 150%;
@@ -28,7 +28,7 @@ body {
 div,h1,h2,h3,h4,h5,h6,ul,ol,li,
 dl,dt,dd,p,form,fieldset,input,label,
 table,tr,th,td,button,textarea,select,a {
-	font-family:'Noto Sans KR', sans-serif;
+	font-family: "Poppins", sans-serif;
 	font-size: 16px;
 	font-weight:400;
 	line-height: 150%;
